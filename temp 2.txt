@@ -42,6 +42,15 @@ sube todo a status y despues uso git commit y sube todo lo que estaba en status.
 Es para hacer el control de version y compartir
 Ahora para mandarme el buen mail!!!
 primero dice plz enter the commit message for your changes... 
+tengo que tocar esc
+y despues ":wq" para enviar el archivo, o zz
+pero no se como se hace
+ahora a anotarse en gitgud
+Pero ahora no se como hacer
+para enviarme el coso
+es muy sad
+:,(
+
 
 
 
