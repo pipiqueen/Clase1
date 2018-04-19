@@ -1,0 +1,78 @@
+git cosas:
+git tiene un sistema de commit para subir las cosas online como un jueguito
+pero ademas puedo devolverlo a index y seguir trabajando
+git consola =! de no se que graficos. 
+en consola podemos escribir lo que querramos y pasar muchos parametros. Si tienen git y muestra todos los comandos que tenemos y la magia que le podemos pasar.
+Nosotros vamos a ver... vamos a ver... "init" bueno, 
+"sublime text 3"
+en bloc de notas
+en git puedo crear una subcarpeta recurriendo a "mkdir" y agrego el nombre de la carpeta
+despues la puedo llamar con el comando "cd" y despues nombrarla y puedo trabajar sobre esta carpeta!! 
+git init hace que inicie la pagina, creo? 
+me lo guarda por defecto en el disco c, usuarios, java, y ahi arma la carpeta
+got init inicializa el repositorio git
+es como si hubiese hecho una nueva carpeta, pagina cliente, aun no hice nada, pero la consola sabe que quiero que sea mi repositorio.
+Si tengo la estructura de carpetas, voy a tener que recurrir a git, a traves de los directorios para subir la estructura mayor a la red. 
+A traves de gitgud
+ahora se creo un .git en la carpeta Paginacliente. No se ve pero indica que va a subir por git
+podemos hacer varios repositorios, y subirlos por separado
+a traves de ctrl+L puedo borrar todo lo que este escrito en git
+Con sublime text podemos hacer un monton de cosas, entre ellas paginas html
+si en sublime le pido para escribir en codigo html (abajo a la derecha) puedo hacer todas esas cosas...
+para acceder a comandos toco tab
+es un lenguaje maquetado, tiene etiquetas y no tiene orden de programacion (cvomo jabo)
+con control+s puedo guardar los archivos y entonces va a cambiar el circulito de la pestaña
+init de nuevo, para inicializar el repositorio
+git init
+git add para agregar comandos
+primero tengo que hacer un git status para comprpobar que haya archivos que auno no puse dentro del git que esten en la carpeta en la que estoy trabajando
+si es verdadero, que faltan algunos archivos, van a saltar en rojo. Solamente escribo el path y me lo va a agregar. 
+una vez agregado, si vuelvo a comprobar el status, va a saltar en verde
+Para enviarmelo tengo que poner git commit
+me va a preguntar cual es mi mail
+hay tres instancias, la primera es mi pc, aunque este usando la misma carpeta, primero esta mi pc
+despues lo puedo subir al status
+finalmente lo puedo subir a commmit
+Si el archivo esta en rojo es porque esta en mi pc pero no en status
+en verde significa que esta en mi pc Y esta en status
+si no esta es porque ya llego a commit
+supongamos que hago un coso java, lo puedo subir con el git para 
+git add +  "." sube todo lo que tengamos TODO
+sube todo a status y despues uso git commit y sube todo lo que estaba en status.
+Es para hacer el control de version y compartir
+Ahora para mandarme el buen mail!!!
+primero dice plz enter the commit message for your changes... 
+tengo que tocar esc
+y despues ":wq" para enviar el archivo, o zz
+pero no se como se hace
+ahora a anotarse en gitgud
+Pero ahora no se como hacer
+para enviarme el coso
+es muy sad
+:,(
+git diff me permite ver las diferencias entre lo que tengo trabajado y lo que esta online tengo que usar 
+git diff para ver cuales son los archivos que estan diferentes
+Ahora subi todo a mi pipiqueen coso
+mail mari.crivello
+contraseña tuvi <3
+fiqus pdf git para bajarlo y esta bueno
+push y pull son las funciones magicas
+push es para subir al repositorio y poder verlo online en la pagina
+pull es lo que dante siempre explicaba para bajar lo que otra persona tiene en el repositorio. 
+
+fiqus pdf git
+
+git pull nombre de usuario --allow-unrelated-histories
+y me baja todo
+pero ojo
+porque si se pisan las carpetas
+chau
+cague
+literal
+y me estoy yendo a almorzar
+es como un haiku :3
+
+
+
+
+
