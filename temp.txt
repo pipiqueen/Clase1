@@ -1,3 +1,4 @@
+TEST EDIT PULL
 git cosas:
 git tiene un sistema de commit para subir las cosas online como un jueguito
 pero ademas puedo devolverlo a index y seguir trabajando
@@ -21,7 +22,7 @@ Con sublime text podemos hacer un monton de cosas, entre ellas paginas html
 si en sublime le pido para escribir en codigo html (abajo a la derecha) puedo hacer todas esas cosas...
 para acceder a comandos toco tab
 es un lenguaje maquetado, tiene etiquetas y no tiene orden de programacion (cvomo jabo)
-con control+s puedo guardar los archivos y entonces va a cambiar el circulito de la pestaña
+con control+s puedo guardar los archivos y entonces va a cambiar el circulito de la pestaÃ±a
 init de nuevo, para inicializar el repositorio
 git init
 git add para agregar comandos
@@ -54,7 +55,7 @@ git diff me permite ver las diferencias entre lo que tengo trabajado y lo que es
 git diff para ver cuales son los archivos que estan diferentes
 Ahora subi todo a mi pipiqueen coso
 mail mari.crivello
-contraseña tuvi <3
+contraseÃ±a tuvi <3
 
 
 
